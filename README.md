@@ -15,11 +15,12 @@ Array Input
 
 Array Output
 
-# Problem-Set-2
-Array Insert
+# Problem-Set-2 : 1D Basic Array Operation 
 
-Array Update
+1D Array Insert
 
-Array Search
+   Array Update
 
-Array Delete
+   Array Search
+
+   Array Delete
